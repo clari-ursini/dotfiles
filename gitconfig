@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cursini@gigance.com.r
+	name = Clari Ursini
